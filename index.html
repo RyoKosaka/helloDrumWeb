@@ -4,7 +4,7 @@
 <body>
 <div id="app" class="container">
 	<h2>{{ title }}</h2>
-	<input v-model="length" placeholder="生成したい文字数を入力してください（1850文字まで）" type="text" class="form-control">
+	<input v-model="length" placeholder="生成したい文字数を入力してください" type="text" class="form-control">
 	<button v-on:click="showText" class="button button-outline" type="button">テキスト生成</button>
 	<div class="substr">
 		{{ substr }}
