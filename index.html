@@ -1,17 +1,19 @@
-<head>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.3.0/milligram.min.css">
-</head>
-<body>
-<div id="app" class="container">
-	<h2>{{ title }}</h2>
-	<input v-model="length" placeholder="生成したい文字数を入力してください" type="text" class="form-control">
-	<button v-on:click="showText" class="button button-outline" type="button">テキスト生成</button>
-	<div class="substr">
-		{{ substr }}
-	</div>
-</div>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="sample.js"></script>
+    <title>Web MIDI API</title>
+  </head>
+  <body>
+    <label>入力デバイス</label>
+    <ul id="input">
+    </ul>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.0.3/vue.js"></script>
-<script src="app-gen.js"></script>
+    <label>出力デバイス</label>
+    <ul id="output">
+    </ul>
 
-</body>
+    <label id="data">00 00 00</label>
+  </body>
+</html>
