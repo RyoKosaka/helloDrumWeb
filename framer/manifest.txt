@@ -1,0 +1,37 @@
+app.coffee
+index.html
+framer/ (Conflicted copy from IB0544 on 2018-04-20).bookmark
+framer/preview.png
+framer/manifest.txt
+framer/images/cursor.png
+framer/images/cursor-active@2x.png
+framer/images/icon-120.png
+framer/images/cursor@2x.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/images/cursor-active.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/config.json
+framer/manifest (Conflicted copy from IB0544 on 2018-04-20).txt
+framer/framer.vekter.js
+framer/preview (Conflicted copy from IB0544 on 2018-04-25).png
+framer/framer.modules.js
+framer/framer.generated (Conflicted copy from IB0544 on 2018-04-20).js
+framer/version
+framer/style.css
+framer/config (Conflicted copy from IB0544 on 2018-04-20).json
+framer/framer.generated.js
+framer/coffee-script.js
+framer/framer.init.js
+framer/framer.js
+sounds/Mid_Tom_04.flac
+sounds/crash16i__crash1.flac
+sounds/Hi_Tom_04.flac
+sounds/Flr_Tom_04.flac
+sounds/crash20i__ride4.flac
+sounds/CYCdh_AcouKick-03.wav
+sounds/CYCdh_LudSnrA-05.wav
+sounds/KHats Clsd-02.wav
+sounds/crash20i__crash.flac
+modules/myModule.coffee
